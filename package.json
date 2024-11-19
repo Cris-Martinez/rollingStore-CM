@@ -8,7 +8,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "antd": "^4.2.0",
-    "firebase": "^7.14.4",
+    "firebase": "^10.9.0",
     "i18next": "^19.4.4",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
